@@ -1,0 +1,142 @@
+[
+    {
+        
+        "id": 1,
+        "nombre": "Evermore Sweatshirt",
+        "precio": "25.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/1.png"
+    },
+
+    {
+        "id":2,
+            "nombre": "Lover Sweatshirt",
+        "precio": "25.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/2.png"
+    },
+    {
+        "id":3,
+            "nombre": "1989 Shirt",
+        "precio": "20.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/3.png"
+    },
+
+    {
+        "id":4,
+            "nombre": "Midnights Jacket",
+        "precio": "100.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/4.png"
+    },
+
+    {
+        "id":5,
+            "nombre": "TTPD Mug",
+        "precio": "10.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/5.png"
+    },
+
+    {
+        "id":6,
+            "nombre": "TTPD Pins",
+        "precio": "15.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/6.png"
+    },
+
+    {
+        "id":7,
+            "nombre": "TTPD Ring",
+        "precio": "45.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/7.png"
+    },
+
+    {
+        "id":8,
+            "nombre": "TTPD Hat",
+        "precio": "30.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/8.png"
+    },
+
+    {
+        "id":9,
+            "nombre": "Red Sweatshirt",
+        "precio": "40.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/9.png"
+    },
+
+    {
+        "id":10,
+            "nombre": "TTPD Hoodie",
+        "precio": "75.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/10.png"
+    },
+
+    {
+        "id":11,
+            "nombre": "Black Dog Hoddie",
+        "precio": "75.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/11.png"
+    },
+
+    {
+        "id":12,
+            "nombre": "T.S hat",
+        "precio": "25.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/12.png"
+    },
+
+    {
+        "id":13,
+            "nombre": "Midnights Gym Bag",
+        "precio": "90.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/13.png"
+    },
+
+    {
+        "id":14,
+            "nombre": "TTPD bag",
+        "precio": "125.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/14.png"
+    },
+
+    {
+        "id":15,
+            "nombre": "Eras Tour sticker pack",
+        "precio": "10.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/15.png"
+    },
+
+    {
+        "id":16,"nombre": "Speak Now Phone Case",
+        "precio": "20.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/16.png"
+    },
+
+    {
+        "id":17,
+            "nombre": "TTPD Cup",
+        "precio": "30.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/17.png"
+    },
+
+    {
+        "id":18,
+            "nombre": "Blue Eras Tour Shirt",
+        "precio": "25.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/18.png"
+    },
+
+    {
+        "id":19,
+            "nombre": "Black Eras Tour Shirt",
+        "precio": "25.00$USD",
+        "imgUrl": "http://tsmerch2.free.nf/img/19.png"
+    },
+
+    {
+        "id":20,"nombre": "Beige Eras Tour Shirt",
+        "precio": "25.00$USD",
+            
+        "imgUrl": "http://tsmerch2.free.nf/img/20.png"
+    }
+
+
+]
