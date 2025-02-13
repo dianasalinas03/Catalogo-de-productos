@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const fetchData = async () => {
     try {
-        const res = await fetch('app.json'); // Asegúrate de que la ruta es correcta
+        const res = await fetch('app.json'); 
         const data = await res.json();
         console.log(data);
         mostrarProductos(data);
@@ -26,7 +26,7 @@ const mostrarProductos = (data) => {
             
 
         const clone = templateCard.cloneNode(true);
-        fragmento.appendChild(clone); // Aquí estaba el error tipográfico
+        fragmento.appendChild(clone); 
     });
     items.appendChild(fragmento);
 };
